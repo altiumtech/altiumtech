@@ -24,8 +24,8 @@
 
 ### 📈 GitHub Stats:
 
-![Altium Tech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Altium Tech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altiumtech&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altiumtech&layout=compact&theme=radical)
 
 💡 **Vision**: At Altium Tech, we believe in crafting solutions that not only meet our clients' expectations but also thrive in the evolving digital landscape.
