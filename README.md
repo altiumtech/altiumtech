@@ -1,6 +1,6 @@
 <a href="https://www.facebook.com/altium.tech">
 <!-- <img src="./Images/Arafat Hosen Github Banner.png" /> -->
-<img src="./Images/Github Banner.png" />
+<img src="./images/Github Banner.png" />
 <!-- <img src="./Images/GitBanner.png" /> -->
 
 </a>
