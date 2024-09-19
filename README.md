@@ -1,3 +1,10 @@
+<a href="https://www.facebook.com/altium.tech">
+<!-- <img src="./Images/Arafat Hosen Github Banner.png" /> -->
+<img src="./Images/Github Banner.png" />
+<!-- <img src="./Images/GitBanner.png" /> -->
+
+</a>
+
 ### 👋 Welcome to Altium Tech
 
 🚀 **Altium Tech** is a forward-thinking software company specializing in cutting-edge **web design** and **custom software development**. Our mission is simple: **100% client satisfaction**. We transform our clients' visions into reality with solutions that excel in the competitive digital marketplace.
